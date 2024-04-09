@@ -31,13 +31,13 @@ export default function App() {
           style={{ backgroundColor: "#7950f2", color: "#fff" }}
           onClick={handlePrevious}
         >
-          Previous
+          Previous Step
         </button>
         <button
           style={{ backgroundColor: "#7950f2", color: "#fff" }}
           onClick={handleNext}
         >
-          Next
+          Next Step
         </button>
       </div>
     </div>
